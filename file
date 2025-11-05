@@ -5,7 +5,7 @@ git add . - it will add everything   --
 
 git add -u -- it will ad only tacked files
 
-git commit
+git commit -m "<your message>"
 
 git push
 
