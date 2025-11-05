@@ -3,6 +3,8 @@ git status  -- to view all changes in current folder.
 
 git add . - it will add everything   --
 
+git add -u -- it will ad only tacked files
+
 git commit
 
 git push
