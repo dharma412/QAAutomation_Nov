@@ -1,0 +1,12 @@
+
+git status  -- to view all changes in current folder.
+
+git add . - it will add everything   --
+
+git commit
+
+git push
+
+
+1. Tracked files -
+2. Untracked files  -
