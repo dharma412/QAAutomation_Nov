@@ -12,3 +12,14 @@ git push
 
 1. Tracked files -
 2. Untracked files  -
+
+
+main or master (deafult) -- rules set / push / pull
+
+teamner1
+teja-
+
+
+# git account -- repo (by deafult )
+
+git pull ()to pull changes from anothe branch
